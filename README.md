@@ -1,6 +1,5 @@
-
 # Projek Akhir EAS
-- Fitur
+# Fitur
 - Buat Rekening
 - Setoran
 - Penarikan
